@@ -26,7 +26,7 @@
     "@astrojs/starlight": "^0.42.4",
     "@expressive-code/plugin-collapsible-sections": "^0.44.2",
     "astro": "^7.3.5",
-    "astro-contributors": "^0.9.0",
+    "astro-contributors": "^0.10.0",
     "sharp": "^0.35.4",
     "starlight-links-validator": "^0.26.0",
     "starlight-recipes": "workspace:*"
