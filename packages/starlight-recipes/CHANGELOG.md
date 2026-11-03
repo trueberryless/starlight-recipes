@@ -1,5 +1,11 @@
 # starlight-recipes
 
+## 0.4.1
+
+### Patch Changes
+
+- [#62](https://github.com/trueberryless/starlight-recipes/pull/62) [`ad947ce`](https://github.com/trueberryless/starlight-recipes/commit/ad947ce1b7a390ad47aacd9f9220ec8f2c933ecc) Thanks [@trueberryless-bot](https://github.com/trueberryless-bot)! - Updates the repository links after the move from the `trueberryless-org` GitHub organization to the `trueberryless` account.
+
 ## 0.4.0
 
 ### Minor Changes
